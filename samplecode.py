@@ -1,1 +1,1 @@
-print("This is sample code.")
+print("Sample code.")
